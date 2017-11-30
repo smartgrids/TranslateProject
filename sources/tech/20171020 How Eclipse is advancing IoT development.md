@@ -1,4 +1,4 @@
-apply for translating
+apply for translating by smartgrids
 
 How Eclipse is advancing IoT development
 ============================================================
